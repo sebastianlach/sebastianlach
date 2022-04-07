@@ -1,4 +1,4 @@
-# `Slach`
+# `slach`
 - http://ci.slach.eu 
 - http://docker.slach.eu
 - http://files.slach.eu
